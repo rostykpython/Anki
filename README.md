@@ -2,7 +2,7 @@
 
 AnkiPetProject is a Python-based application that allows you to convert raw information in plain text into Anki flashcards using the OpenAI API. The application is designed with a user-friendly interface, making it easy to create and manage your flashcards.
 
-![AnkiPetProject Main Window](images/main_window.png)
+![Main screen](https://user-images.githubusercontent.com/89851597/236620554-1e01ca53-b56b-428b-a9b5-ae546aefc0fb.png)
 
 ## Table of Contents
 - [Features](#features)
@@ -51,15 +51,16 @@ AnkiPetProject is a Python-based application that allows you to convert raw info
 2. The application will open, and you can start by managing your API key or creating flashcards.
 
 ### Manage API Key
-![API Key Management](images/api_key_management.png)
+![image](https://user-images.githubusercontent.com/89851597/236620537-6e53a7b9-5b08-43a7-a17d-a11ec5bee3ae.png)
 1. Click on the "Manage API key" button to open the API key management scene.
 2. Add or update your OpenAI API key and model, then click "Save" to store the information in the `config.json` file.
 
 ### Create Flashcards
-![Create Flashcards](images/create_flashcards.png)
+![image](https://user-images.githubusercontent.com/89851597/236620643-5c4a1c0c-5241-4184-a8aa-f8d6aa24a888.png)
 1. Click on the "Create flashcards" button to open the flashcard creation scene.
 2. Enter your raw information in the text box and click "Create Flashcards" to generate Anki flashcards using the OpenAI API.
 3. The created flashcards will be displayed, and you can edit or delete them as needed.
+![image](https://user-images.githubusercontent.com/89851597/236620722-728ae0fd-8a8f-49d5-8750-6b9b03cbc706.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
