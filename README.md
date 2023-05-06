@@ -9,7 +9,6 @@ AnkiPetProject is a Python-based application that allows you to convert raw info
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -61,9 +60,6 @@ AnkiPetProject is a Python-based application that allows you to convert raw info
 2. Enter your raw information in the text box and click "Create Flashcards" to generate Anki flashcards using the OpenAI API.
 3. The created flashcards will be displayed, and you can edit or delete them as needed.
 ![image](https://user-images.githubusercontent.com/89851597/236620722-728ae0fd-8a8f-49d5-8750-6b9b03cbc706.png)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](LICENSE)
