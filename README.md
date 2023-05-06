@@ -66,7 +66,8 @@ AnkiPetProject is a Python-based application that allows you to convert raw info
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](LICENSE)Please ensure you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
+[MIT](LICENSE)
+Please ensure you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
 
 ## Support
 If you encounter any issues or have questions, please open an issue on the GitHub repository.
